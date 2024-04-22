@@ -17,7 +17,8 @@ or
 
 #### JavaScript
 
-    `const DeviceFingerprinting = require("device-fingerprinting");
+```
+    const DeviceFingerprinting = require("device-fingerprinting");
 
     var deviceFingerprint = DeviceFingerprinting().getDeviceFingerprint();
     console.log(`The device fingerprint is ${deviceFingerprint}`);
@@ -26,7 +27,8 @@ or
     console.log(`The device with browser fingerprint is ${DeviceWithBrowserFingerprint}`);
 
     var FCMToken = DeviceFingerprinting().getFCMToken();
-    console.log(`The device FCM token is ${FCMToken}`);`
+    console.log(`The device FCM token is ${FCMToken}`);
+```
 
 
 ## Function details:

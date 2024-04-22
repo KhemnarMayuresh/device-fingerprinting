@@ -1,6 +1,6 @@
 {
   "name": "device-fingerprinting",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A npm package to create a device fingerprint for users in front-end.",
   "main": "index.js",
   "scripts": {
