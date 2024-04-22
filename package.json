@@ -1,0 +1,24 @@
+{
+  "name": "device-fingerprinting",
+  "version": "1.0.0",
+  "description": "A npm package to create a device fingerprint for users in front-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhemnarMayuresh/device-fingerprinting.git"
+  },
+  "keywords": [
+    "device-fingerprint",
+    "device-id",
+    "device-tracking"
+  ],
+  "author": "khemnar-mayuresh <[khemnarmayuresh19@gmail.com](mailto:khemnarmayuresh19@gmail.com)> (mailto:khemnarmayuresh19@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhemnarMayuresh/device-fingerprinting/issues"
+  },
+  "homepage": "https://github.com/KhemnarMayuresh/device-fingerprinting#readme"
+}
